@@ -1,0 +1,11 @@
+openai>=1.0.0
+PyPDF2
+python-pptx
+tqdm
+langchain
+langchain-openai
+azure-storage-blob
+langchain-community
+streamlit
+chromadb
+ 
